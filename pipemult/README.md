@@ -1,0 +1,1 @@
+Here a design is made using ram and multiplier blocks for MAX 10 family chip. The design was compiled and report was analyzed. A revised design was made with increased performance and the results were compared using the revisions compare option in the quartus prime toolbox.
